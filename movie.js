@@ -14,6 +14,9 @@ function get(film){
 			console.log('Title: ' + info.items[i].title);
 			console.log('From: ' + info.items[i].displayLink);
 			console.log(info.items[i].snippet);
+			console.log(' ');
+			console.log(' ');
+			console.log(' ');
 		}
 	});
 }
